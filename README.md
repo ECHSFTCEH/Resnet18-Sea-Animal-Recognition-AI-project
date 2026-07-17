@@ -43,3 +43,5 @@ DATASET=data
 6. Done! You can also insert your own images into these class directories to see if the AI is able recognize it. You are not limited to the test files.
 
 ![Video explanation here!!!](demo.mp4)
+
+Google drive link - https://drive.google.com/file/d/1QGvNMOLOXjeh3MRvT56Od2kj2H3Icoa-/view?usp=sharing
