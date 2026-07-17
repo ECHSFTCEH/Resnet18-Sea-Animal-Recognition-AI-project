@@ -1,0 +1,6 @@
+*.pyc
+*.pth.tar
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.jpeg
+data/**/*.png
